@@ -1,0 +1,8 @@
+{
+    "display_name": "小工具",
+    "loading_order": 160,
+    "js": "index.js",
+    "version": "1.0.0",
+    "auto_update": false,
+    "description": "小工具，隐藏楼层核对指定楼层进行写入。"
+}
